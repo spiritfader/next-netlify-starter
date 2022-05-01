@@ -15,6 +15,7 @@ export default function Home() {
         <p className="description">
           Get started by editing <code>pages/index.js</code>
           Now i've added a line of text. I really think this will be quite nice. A fantastic start.
+          Added a new line for more testing purposes, deploy preview maybe??
         </p>
       </main>
 
